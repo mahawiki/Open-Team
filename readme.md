@@ -52,9 +52,9 @@ we mahawikiens believe in sharing code and sharing experience and expertise with
 
 
 ## Contributors 
-|Name                 |  Role       | Github User handle |  Project link|  Blog link|
+|Name                 |  Role       | Github User handle |  Project link|  Blog/ Video link|
 | ------------------- |-------------| ---------------------|-------------|-------------|
-| XXXXXXXXXXX XXXXXXX | XXXXXXXxxxx |   xxxxxxxxxxxxxxxx   |xxxxxxx   |xxxxxxx   |
+| Ankitkumar Singh    | Moderator|   @anki7singh   | [Grape-Plant-Disease-Identification](https://github.com/Anki7singh/Grape-Plant-Disease)    |[Video Demo ](https://youtu.be/UVxZw-MVGJ4)   |
 
 
 
